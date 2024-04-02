@@ -49,13 +49,13 @@ const about = () => {
                         <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>About Me</h2>
 
                         <p className='font-medium'>
-                        Hello! I'm Joseph Rasanjana, a backend developer with a specialization in AI/ML and robotics. With over 4 years in the tech industry, I'm passionate about creating innovative digital solutions and robotic systems. My expertise includes backend development, AI/ML programming, and robotics, where I focus on developing intelligent algorithms and machines that interact with their environment.
+                        Hello! I am Joseph Rasanjana, a backend developer with a specialization in AI/ML and robotics. With over 4 years in the tech industry, I am passionate about creating innovative digital solutions and robotic systems. My expertise includes backend development, AI/ML programming, and robotics, where I focus on developing intelligent algorithms and machines that interact with their environment.
                         </p>
                         <p className='my-4 font-medium'>
-                        I believe in designing solutions that solve real-world problems and enhance user experiences. My commitment to excellence and user-centered design is evident in every project I undertake, whether it's a website, mobile app, or a complex robotic system.
+                        I believe in designing solutions that solve real-world problems and enhance user experiences. My commitment to excellence and user-centered design is evident in every project I undertake, whether it is a website, mobile app, or a complex robotic system.
                         </p>
                         <p className='font-medium'>
-                        I'm always on the lookout for new challenges and technologies to apply my skills and passion. My goal is to bring my expertise to your next project, helping to bring your vision to life with cutting-edge technology and innovative solutions.
+                        I am always on the lookout for new challenges and technologies to apply my skills and passion. My goal is to bring my expertise to your next project, helping to bring your vision to life with cutting-edge technology and innovative solutions.
                         </p>
                     </div>
                     <div className="col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark

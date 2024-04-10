@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://josephlahiru.github.io/</loc>
+	<lastmod>2024-04-10T13:15:49+01:00</lastmod>
+	<priority>0.4</priority>
+	<image:image>
+			<image:loc>https://josephlahiru.github.io/_next/static/media/dev4.a78c384e.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://josephlahiru.github.io/about</loc>
+	<lastmod>2024-04-10T13:15:49+01:00</lastmod>
+	<priority>0.2</priority>
+	<image:image>
+			<image:loc>https://josephlahiru.github.io/_next/static/media/dev3.4403d91a.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://josephlahiru.github.io/projects</loc>
+	<lastmod>2024-04-10T13:15:49+01:00</lastmod>
+	<priority>0.2</priority>
+	<image:image>
+			<image:loc>https://josephlahiru.github.io/_next/static/media/ai-car-simulation.64bfe7bd.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://josephlahiru.github.io/_next/static/media/hms.4162615e.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://josephlahiru.github.io/_next/static/media/mcms-app.160fd925.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://josephlahiru.github.io/_next/static/media/cyber-tool.9c99edd8.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://josephlahiru.github.io/_next/static/media/challenger-x.f982d26c.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://josephlahiru.github.io/_next/static/media/spira.914eb16a.webp</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://josephlahiru.github.io/_next/static/media/sliot.d6556a0a.jpeg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://josephlahiru.github.io/blog</loc>
+	<lastmod>2024-04-10T13:15:49+01:00</lastmod>
+	<priority>0.2</priority>
+	<image:image>
+			<image:loc>https://josephlahiru.github.io/_next/static/media/hello-world.d863d6fb.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://josephlahiru.github.io/josephrasanjana_cv.pdf</loc>
+	<lastmod>2024-04-10T13:15:49+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>

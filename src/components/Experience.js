@@ -59,7 +59,7 @@ const Experience = () => {
             companyLink="https://www.lbfinance.lk/"
             time="January 2025 - Present"
             address="Colombo, Sri Lanka"
-            work="Working as a DevOps Engineer Intern, working with CI/CD pipelines, Docker, Kubernetes and AWS."
+            work="Working as a DevOps Engineer, working with CI/CD pipelines, Docker, Kubernetes and AWS."
           />
           <Details
             position="DevOps Engineer Intern"
